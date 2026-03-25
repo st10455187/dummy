@@ -1,0 +1,23 @@
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\BCAD\BCAD Y2\BCAD S1\PROG6221\ICE TASKS\HCI Mini Bot\HCI Mini Bot\obj\Debug\net10.0\HCI Mini Bot.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\BCAD\BCAD Y2\BCAD S1\PROG6221\ICE TASKS\HCI Mini Bot\HCI Mini Bot\obj\Debug\net10.0\HCI Mini Bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\BCAD\BCAD Y2\BCAD S1\PROG6221\ICE TASKS\HCI Mini Bot\HCI Mini Bot\obj\Debug\net10.0\HCI Mini Bot.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\BCAD\BCAD Y2\BCAD S1\PROG6221\ICE TASKS\HCI Mini Bot\HCI Mini Bot\obj\Debug\net10.0\HCI Mini Bot.AssemblyInfo.cs
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\BCAD\BCAD Y2\BCAD S1\PROG6221\ICE TASKS\HCI Mini Bot\HCI Mini Bot\obj\Debug\net10.0\HCI Mini Bot.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\BCAD\BCAD Y2\BCAD S1\PROG6221\ICE TASKS\HCI Mini Bot\HCI Mini Bot\bin\Debug\net10.0\HCI Mini Bot.exe
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\BCAD\BCAD Y2\BCAD S1\PROG6221\ICE TASKS\HCI Mini Bot\HCI Mini Bot\bin\Debug\net10.0\HCI Mini Bot.deps.json
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\BCAD\BCAD Y2\BCAD S1\PROG6221\ICE TASKS\HCI Mini Bot\HCI Mini Bot\bin\Debug\net10.0\HCI Mini Bot.runtimeconfig.json
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\BCAD\BCAD Y2\BCAD S1\PROG6221\ICE TASKS\HCI Mini Bot\HCI Mini Bot\bin\Debug\net10.0\HCI Mini Bot.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\BCAD\BCAD Y2\BCAD S1\PROG6221\ICE TASKS\HCI Mini Bot\HCI Mini Bot\bin\Debug\net10.0\HCI Mini Bot.pdb
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\BCAD\BCAD Y2\BCAD S1\PROG6221\ICE TASKS\HCI Mini Bot\HCI Mini Bot\bin\Debug\net10.0\System.Runtime.WindowsRuntime.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\BCAD\BCAD Y2\BCAD S1\PROG6221\ICE TASKS\HCI Mini Bot\HCI Mini Bot\bin\Debug\net10.0\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\BCAD\BCAD Y2\BCAD S1\PROG6221\ICE TASKS\HCI Mini Bot\HCI Mini Bot\bin\Debug\net10.0\System.Windows.Extensions.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\BCAD\BCAD Y2\BCAD S1\PROG6221\ICE TASKS\HCI Mini Bot\HCI Mini Bot\bin\Debug\net10.0\runtimes\win\lib\netcoreapp3.0\System.Runtime.WindowsRuntime.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\BCAD\BCAD Y2\BCAD S1\PROG6221\ICE TASKS\HCI Mini Bot\HCI Mini Bot\bin\Debug\net10.0\runtimes\win\lib\netcoreapp3.0\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\BCAD\BCAD Y2\BCAD S1\PROG6221\ICE TASKS\HCI Mini Bot\HCI Mini Bot\bin\Debug\net10.0\runtimes\win\lib\net10.0\System.Windows.Extensions.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\BCAD\BCAD Y2\BCAD S1\PROG6221\ICE TASKS\HCI Mini Bot\HCI Mini Bot\obj\Debug\net10.0\HCI Mini.2F1A88CC.Up2Date
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\BCAD\BCAD Y2\BCAD S1\PROG6221\ICE TASKS\HCI Mini Bot\HCI Mini Bot\obj\Debug\net10.0\HCI Mini Bot.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\BCAD\BCAD Y2\BCAD S1\PROG6221\ICE TASKS\HCI Mini Bot\HCI Mini Bot\obj\Debug\net10.0\refint\HCI Mini Bot.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\BCAD\BCAD Y2\BCAD S1\PROG6221\ICE TASKS\HCI Mini Bot\HCI Mini Bot\obj\Debug\net10.0\HCI Mini Bot.pdb
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\BCAD\BCAD Y2\BCAD S1\PROG6221\ICE TASKS\HCI Mini Bot\HCI Mini Bot\obj\Debug\net10.0\HCI Mini Bot.genruntimeconfig.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\BCAD\BCAD Y2\BCAD S1\PROG6221\ICE TASKS\HCI Mini Bot\HCI Mini Bot\obj\Debug\net10.0\ref\HCI Mini Bot.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Documents\BCAD\BCAD Y2\BCAD S1\PROG6221\ICE TASKS\HCI Mini Bot\HCI Mini Bot\bin\Debug\net10.0\welcome.wav.wav

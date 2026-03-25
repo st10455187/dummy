@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1UdB8JjvNoA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lab_services_student\\OneDrive - ADvTECH Ltd\\Documents\\BCAD\\BCAD Y2\\BCAD S1\\PROG6221\\ICE TASKS\\HCI Mini Bot\\HCI Mini Bot\\HCI Mini Bot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\system.runtime.windowsruntime\\4.7.0\\system.runtime.windowsruntime.4.7.0.nupkg.sha512",
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\system.runtime.windowsruntime.ui.xaml\\4.7.0\\system.runtime.windowsruntime.ui.xaml.4.7.0.nupkg.sha512",
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\system.windows.extensions\\10.0.5\\system.windows.extensions.10.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
